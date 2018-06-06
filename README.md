@@ -6,6 +6,8 @@ A repository for hands on experiment with Git Branching Strategy.
 
 -- Adding userstory-2 branch created from feature-2
 
+-- Adding feature-2 branch created from master
+
 -- Adding integration from master as feature-1 and feature-2 are ready.
 
 -- userstory-1 and userstory-2 have been completed in separate branch created from feature-1
