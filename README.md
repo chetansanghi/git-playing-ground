@@ -20,3 +20,4 @@ A repository for hands on experiment with Git Branching Strategy.
 
 -- PPE & Other testing done and ready for release so creating a release branch from master
 
+-- Now creating a tag v1.0 and from that release branch can be created
