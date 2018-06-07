@@ -18,3 +18,5 @@ A repository for hands on experiment with Git Branching Strategy.
 
 -- Likewise feature-1 branch would be merged to integration branch via pull request
 
+-- PPE & Other testing done and ready for release so creating a release branch from master
+
